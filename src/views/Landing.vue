@@ -10,7 +10,7 @@
                     <div class="col px-0">
                         <div class="row">
                             <div class="col-lg-6">
-                                <h1 class="display-3  text-white">Développeur Laravel / VueJS
+                                <h1 class="display-3  text-white">Développeur Full Stack
                                     <span>(PHP / Javascript)</span>
                                 </h1>
                                 <p class="lead  text-white">Je suis disponible pour vous accompagner dans vos projets backend ou frontend que ce soit pour l'affichage
@@ -303,7 +303,7 @@
                             <div class="col-lg-3 ml-lg-auto">
                                 <base-button tag="a" href="https://www.linkedin.com/in/kevin-marous/"
                                              type="white" block size="lg">
-                                    Voir mes experiences professionnelles
+                                    Voir mes experiences
                                 </base-button>
                             </div>
                         </div>
