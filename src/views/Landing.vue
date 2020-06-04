@@ -48,6 +48,7 @@
                                         <badge type="primary" rounded>Shell</badge>
                                         <badge type="primary" rounded>Script</badge>
                                         <badge type="primary" rounded>FreshDesk</badge>
+                                        <badge type="primary" rounded>Heroku</badge>
                                     </div>
                                 </card>
                             </div>
@@ -295,14 +296,14 @@
                     <div class="p-5">
                         <div class="row align-items-center">
                             <div class="col-lg-8">
-                                <h3 class="text-white">Vous souhaitez consulter mon cv ?</h3>
+                                <h3 class="text-white">Vous souhaitez consulter mon parcours ?</h3>
                                 <p class="lead text-white mt-3">Cliquez sur le bouton 
-                                    vous pourrez ainsi le télécharger.</p>
+                                    vous pourrez ainsi le voir sur linkedin.</p>
                             </div>
                             <div class="col-lg-3 ml-lg-auto">
-                                <base-button tag="a" href="#"
+                                <base-button tag="a" href="https://www.linkedin.com/in/kevin-marous/"
                                              type="white" block size="lg">
-                                    Télécharger mon cv
+                                    Voir mes experiences professionnelles
                                 </base-button>
                             </div>
                         </div>
