@@ -148,7 +148,14 @@
             <div class="row">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="card card-lift--hover shadow border-0">
+                        <card class="border-0" hover shadow body-classes="py-5">
+                                    <icon name="ni ni-istanbul" type="success" rounded class="mb-4">
+                                    </icon>
+                                    <h6 class="text-success text-uppercase">PHP / Laravel</h6>
+                                    <p class="description mt-3">Je suis en mesure de récupérer des données en DB ou via une api
+                                        de façon à formater la donnée pour de l'analytique.</p>
                             <img v-lazy="'img/theme/mbp.png'" class="card-img">
+                        </card>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4 mb-lg-0">
