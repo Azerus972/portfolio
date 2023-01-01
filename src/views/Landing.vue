@@ -147,7 +147,7 @@
                     <div class="container container-lg">
             <div class="row">
                 <div class="col-md-4 mb-4 mb-md-0">
-                    <a href="https://www.mybestplace.fr/" target="_blank" data-toggle="tooltip"
+                    <a href="https://www.mybestplace.fr/" target="_blank" data-toggle="tooltip"></a>
                                        data-original-title="Mybestplace listing directory for small cities">
                     <div class="card card-lift--hover shadow border-0">
                             <img v-lazy="'img/theme/mbp.png'" class="card-img">
@@ -155,14 +155,14 @@
                 </div>
                 <div class="col-md-4 mb-4 mb-lg-0">
                     <div class="card card-lift--hover shadow border-0">
-                        <a href="https://www.mbpdelivery.fr" target="_blank" data-toggle="tooltip"
+                        <a href="https://www.mbpdelivery.fr" target="_blank" data-toggle="tooltip"></a>
                                        data-original-title="MBP Delivery solution en ligne pour les commerces de proximité afin de vendre leurs produits en ligne.">
                             <img v-lazy="'img/theme/mbpd.png'" class="card-img">
                     </div>
                 </div>
                                 <div class="col-md-4 mb-4 mb-lg-0">
                     <div class="card card-lift--hover shadow border-0">
-                        <a href="https://hpidashboard.herokuapp.com/" target="_blank" data-toggle="tooltip"
+                        <a href="https://hpidashboard.herokuapp.com/" target="_blank" data-toggle="tooltip">∑</a>
                                        data-original-title="Dashboard réalisé pour l analyse de kpis lors de l envoi de questionnaires">
                             <img v-lazy="'img/theme/hpi.png'" class="card-img">
                     </div>
