@@ -148,7 +148,7 @@
             <div class="row">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <a href="https://www.mybestplace.fr/" target="_blank" data-toggle="tooltip"
-                                       data-original-title="Mybestplace listing directory for small cities and little busineses">
+                                       data-original-title="Mybestplace listing directory for small cities">
                     <div class="card card-lift--hover shadow border-0">
                             <img v-lazy="'img/theme/mbp.png'" class="card-img">
                     </div>
