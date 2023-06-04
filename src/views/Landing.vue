@@ -304,7 +304,7 @@
                             <div class="col-lg-8">
                                 <h3 class="text-white">Vous souhaitez consulter mon parcours ?</h3>
                                 <p class="lead text-white mt-3">Cliquez sur le bouton 
-                                    vous pourrez ainsi le voir sur linkedin.</p>
+                                    vous pourrez le voir sur linkedin.</p>
                             </div>
                             <div class="col-lg-3 ml-lg-auto">
                                 <base-button tag="a" href="https://www.linkedin.com/in/kevin-marous/"
