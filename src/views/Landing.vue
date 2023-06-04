@@ -280,7 +280,7 @@
                                     <small class="h6 text-muted">Developpeur</small>
                                 </h5>
                                 <div class="mt-3">
-                                    <base-button tag="a" href="https://twitter.com/Darkdedoom" type="success" icon="fa fa-twitter" rounded
+                                    <base-button tag="a" href="https://twitter.com/Tikapo1" type="success" icon="fa fa-twitter" rounded
                                                  icon-only></base-button>
                                     <base-button tag="a" href="https://github.com/Azerus972" type="success" icon="fa fa-github" rounded
                                                  icon-only></base-button>
